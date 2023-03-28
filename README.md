@@ -1,3 +1,4 @@
 # huffboi
-huffboi is a huffman coding program written in python.
-School project
+## School project
+huffboi is a huffman coding experiment written in python.
+
